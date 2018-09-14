@@ -5,6 +5,7 @@ This code book summarises the resulting data fied in tidy.txt.
 ## Identifiers
 
 `subject` - The ID of the test subject.
+
 `activity` - The type of activity performed when the corresponding measurements were taken.
 
 ## Measurements
