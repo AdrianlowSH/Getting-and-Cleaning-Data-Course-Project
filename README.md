@@ -12,4 +12,4 @@ The `run_analysis.R` does the following
 
 4. Change the column names to appropriate dscriptive column names.
 
-5. Create a tidy data set based on activity and subject saved as tidy.txt
+5. Create a tidy data set based on activity and subject saved as TidiedData.txt
